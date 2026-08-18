@@ -1,4 +1,6 @@
 # Aplikasi-perpustakaan-xi-pplg
 Praktik kolaborasi GIT dan GITHUB kelas XPPLG
-#aplikasi perpustakaan
-##fitur login
+
+##Fitur Dashboard
+dashboard digunakan untuk menampilkan informasi utama aplikasi
+
